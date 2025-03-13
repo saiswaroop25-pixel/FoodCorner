@@ -1,0 +1,1 @@
+Food Corner is a console-based application designed using Object-Oriented Programming (OOP) principles. It simulates a food ordering system where users can browse the menu, place orders, and manage their bills efficiently.
